@@ -1,0 +1,9 @@
+{
+	"name": "mydflearning19",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e824c67c-3d28-42ff-a120-48a6d5d73d2a",
+		"tenantId": "b11f441f-4812-4d87-a92c-e4f104707d99"
+	}
+}
